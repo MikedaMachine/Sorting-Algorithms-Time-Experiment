@@ -25,7 +25,7 @@ Get the time and set this to start-time (notice the sort is started after each a
 Use bubble sort to sort the array
 Get the time and set this to end-time Subtract start-time from end-time and add the result to total_time
 
-Once the program has run, note
+Once the program has run, note  
                  `The number of items sorted`   
                  `The average running time for each array (total_time/1000)`
 
