@@ -1,6 +1,6 @@
-6.  Report explaining the results and machine specifications
+6.    Report explaining the results and machine specifications
 
-Machine Specifications
+    Machine Specifications
 - Brand: Dell Inspirion 7506
 - Operating System: Windows 10 
 - Processor: Intel Core i5 @ 2.40GHz
