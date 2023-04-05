@@ -1,10 +1,10 @@
 6.	Report explaining the results and machine specifications
 
-Machine Specifications
-Brand: Dell Inspirion 7506
-Operating System: Windows 10
-Processor: Intel Core i5 @ 2.40GHz
-Ram: 12GB 
+> Machine Specifications
+> Brand: Dell Inspirion 7506
+> Operating System: Windows 10
+> Processor: Intel Core i5 @ 2.40GHz
+> Ram: 12GB 
 
          The time complexity experiment revealed that the selection sort appears to be overall a faster algorithm. Though both algorithms 
        have a complexity of O(n^2), the method in which they are processed differs. Selection sort performs less swaps than Bubble sort  
