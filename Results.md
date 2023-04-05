@@ -1,4 +1,4 @@
-6.	Report explaining the results and machine specifications
+6.  Report explaining the results and machine specifications
 
 Machine Specifications
 - Brand: Dell Inspirion 7506
