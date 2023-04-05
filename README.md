@@ -3,7 +3,7 @@ Programmed a timing experiment in C#.  The project evaluates the Big O notation 
 
 
 ## THE PROJECT
-The purpose of the project is to perform a timing experiment. You are required to complete the following activities:
+# The purpose of the project is to perform a timing experiment. You are required to complete the following activities:
 
 1.	Write a computer program that prompts the user for a number, creates an array for that number of random integers, and then usees the bubble sort to order the array. The program should print out the array prior to the call to the sorting algorithm and afterwards. You can write the program in either Java, C++, C#, or whatever language you are most comfortable in. Do Not use an API from the language library. Write the program to perform the sort.
 2.	Repeat 1 but use selection sort this time. Again, write out the program for the selection sort. DO not use the language library.
