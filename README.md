@@ -13,13 +13,13 @@ Once you are convinced your programs work, do the following
 
 3.	Write a computer program that prompts the user for one number, n for the number of items in the array to sort, and create and sort 1000 different arrays of this size timing the run to get an average time to sort an array of this size. Then do the following:
 
-Initiate a variable running_time to 0
+        Initiate a variable running_time to 0
 
-Create a for loop that iterates 1000 times.
+        Create a for loop that iterates 1000 times.
 
-In the body of the loop,
+        In the body of the loop,
 
-Create an array of n random integers
+        Create an array of n random integers
 
 Get the time and set this to start-time (notice the sort is started after each array is built. You want to time the srt process only). You will have to figure out what the appropriate command is in the programming language you are using to find the time (Important: Do not start the timer until after the array is created).
 Use bubble sort to sort the array
