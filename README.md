@@ -1,4 +1,4 @@
-## Sorting-Algorithms-Time-Experiment
+### Sorting-Algorithms-Time-Experiment
 Programmed a timing experiment in C#.  The project evaluates the Big O notation timing between the Bubble sort and Selection sort algorithms. Analyzing the results provides a performance measurement of how long it takes each algorithm to run.
 
 
