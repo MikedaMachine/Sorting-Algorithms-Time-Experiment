@@ -27,8 +27,8 @@ Get the time and set this to end-time Subtract start-time from end-time and add 
 
 Once the program has run, note 
 
-                 `The number of items sorted`   
-                 `The average running time for each array (total_time/1000)`
+                 The number of items sorted   
+                 The average running time for each array (total_time/1000)
 
 Repeat the process using 500, 2500 and 5000 as the size of the array. 
 
